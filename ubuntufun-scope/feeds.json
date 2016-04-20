@@ -1,0 +1,14 @@
+[
+    {
+        "label": "Artikel",
+        "id": "http://ubuntufun.de/feed/"
+},
+{
+        "label": "Podcast",
+        "id": "http://ubuntufun.de/feed/podcast"
+},
+{
+        "label": "Kommentare",
+        "id": "http://ubuntufun.de/comments/feed/"
+    }
+]

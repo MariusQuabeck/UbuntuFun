@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=UbuntuFun.de
+Type=Application
+Icon=ubuntufun-webapp/ubuntufun.png
+Exec=qmlscene %u ubuntufun-webapp/qml/Main.qml
+Terminal=false
+X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Image=ubuntufun-webapp/ubuntufun-splash.png
+X-Ubuntu-Splash-Color=#ffffff
+Name[de_DE]=ubuntufun.desktop

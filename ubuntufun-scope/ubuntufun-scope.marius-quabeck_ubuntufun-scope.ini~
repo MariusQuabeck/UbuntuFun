@@ -1,0 +1,11 @@
+[ScopeConfig]
+DisplayName=OMG Ubuntu
+Description=OMG Ubuntu Scope
+Art=screenshot.png
+Author=Mitchell Reese
+Icon=omgicon2.png
+
+[Appearance]
+PageHeader.Logo=omg-long.png
+PageHeader.Background=color:///#f15d22
+PageHeader.DividerColor=#4d1f3e

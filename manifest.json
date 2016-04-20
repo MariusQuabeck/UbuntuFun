@@ -1,0 +1,21 @@
+{
+    "architecture": "armhf",
+    "description": "UbuntuFun.de Scope und WebApp",
+    "framework": "ubuntu-sdk-14.10",
+    "hooks": {
+        "ubuntufun": {
+            "apparmor": "ubuntufun-webapp/ubuntufun.json",
+            "desktop": "ubuntufun-webapp/ubuntufun.desktop",
+            "urls": "ubuntufun-webapp/ubuntufun.url-dispatcher"
+        },
+            "ubuntufun-scope": {
+            "scope": "ubuntufun-scope",
+            "apparmor": "scope-security.json"
+        }
+    },
+    "installed-size": "530",
+    "maintainer": "Marius Quabeck <misterq@ubuntu.com>",
+    "name": "ubuntufun.marius-quabeck",
+    "title": "ubuntufunscope",
+    "version": "2.0"
+}
